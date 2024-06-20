@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<style>
+			.My_Style {
+				background-color: red;
+				color: darkgreen;
+				text-decoration: underline;
+				font-weight: bold;
+				font-size: small;
+			}
+		</style>
+		<p class="My_Style">This p element is styled per class attribute My_Style</p>
+	</body>
+</html>
